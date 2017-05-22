@@ -1,0 +1,22 @@
+{
+  "name": "http_client_mini",
+  "version": "1.0.1",
+  "description": "一个最简单的http客户端，支持get和post方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/outsiderLazy/http_client_mini"
+  },
+  "keywords": [
+    "http",
+    "httpClient",
+    "get",
+    "post",
+    "simple"
+  ],
+  "author": "outsider",
+  "license": "ISC"
+}
